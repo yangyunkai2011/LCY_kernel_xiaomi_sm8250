@@ -1,9 +1,8 @@
 # SPDX-License-Identifier: GPL-2.0
 VERSION = 4
 PATCHLEVEL = 19
-SUBLEVEL = 325
-EXTRAVERSION =
-NAME = "People's Front"
+SUBLEVEL = 157
+EXTRAVERSION =-perf-g9607d8651312
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
